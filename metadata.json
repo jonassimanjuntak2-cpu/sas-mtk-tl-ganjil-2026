@@ -1,0 +1,6 @@
+{
+  "name": "LATIHAN SUMATIF AKHIR SEMESTER MATEMATIKA TINGKAT LANJUT PRO",
+  "description": "Platform asesmen dan latihan interaktif Matematika Tingkat Lanjut SMA berbasis HOTS (25 PG & 5 Esai) sesuai 26 indikator kisi-kisi, dilengkapi stimulus visual presisi, narator audio MR JO, dan Mode Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
